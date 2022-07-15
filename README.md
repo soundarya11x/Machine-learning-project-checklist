@@ -62,6 +62,9 @@
       3.Boosting -  AdaBoost, Gradient Boosting Machines, XGBoost 
     
       - UNSUPERVISED
+      1.K-means clustering
+      2.K-means ++
+      3.PCA (Dimensionality reduction)
 ### 8. Model validation   
       1. Checking Bias and Variance - Underfitting or Overfitting
       2. Regularization
