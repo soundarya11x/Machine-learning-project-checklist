@@ -1,5 +1,5 @@
 # Machine-learning-project-checklist
-# step-wise checklist for a ML project
+# step-wise-checklist-for-a-ML-project
 - We are required to deal with so many elements in a project (wrangling, preparation, questions, models, fine-tuning, etc.), it’s easy to lose track of things.
 - Checklist guides us to check if every task has been executed successfully or not.
 
