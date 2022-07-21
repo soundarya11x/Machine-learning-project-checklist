@@ -55,7 +55,7 @@
       2.Logistic regression
       3.Naive bayes theorem
       4.Decision tree
-      5.SVM
+      5.SVM  
       - ENSEMBLES
       1.Bagging - Random forest
       2.Stacking
