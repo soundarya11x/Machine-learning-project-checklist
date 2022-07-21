@@ -69,6 +69,7 @@
       1. Checking Bias and Variance - Underfitting or Overfitting
       2. Regularization
       3. Hyper parameter tuning
+      4. Cross Validation
 ### 9. Model Evaluation
       - Evaluation metrics
       1. Classification
