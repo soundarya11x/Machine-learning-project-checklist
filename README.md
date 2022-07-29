@@ -74,8 +74,15 @@
 ### 9. Model Evaluation
       - Evaluation metrics
       1. Classification
-           - Balanced dataset: Accuracy, Precision, Recall, F1, Confusion matrix, ROC- AUC
-           - Imbalanced dataset: Confusion matrix, Accuracy
+      - Accuracy
+      - precesion
+      - recall
+      - F1 - score
+      - AUC-ROC curve
+           - focus class is Negative - Use the AOC score, when positive class is the majority and your focus class is Negative.
+           - focus class is positive - Use Precision, Recall & F1-score, when negative class is the majority and your focus class is positive.
+           - Accuracy score doesn’t help much in Imbalanced situations
+           - High FPR tells, your classifier/Model predicts a high number of False Positives.
       2. Regression – MSE,MAE,R-squared,RMSE
 ### 10. Model deployment
       - Put the model into production and see how it goes.
